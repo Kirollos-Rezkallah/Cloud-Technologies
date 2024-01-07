@@ -16,15 +16,25 @@ A snapshot of billing data from the provider after a little processing in the fo
 ### Список сервисов и их описание
 
 **Azure Analysis Services** is a managed service that allows you to create scalable data models for analysis and reporting. It provides enterprise-grade semantic data model capabilities for business intelligence (BI), data analytics, and reporting such as Power BI, Excel, Reporting Services, and other data visualization tools.
+
 **Azure Data Factory** is a cloud service that allows you to integrate and transform data from various sources. This service provides a no-code user interface for intuitive development with the ability to monitor and manage from a single pane of glass.
+
 **Azure Database for PostgreSQL** is a relational database service based on the open-source PostgreSQL DBMS. It is a fully managed database service that provides high performance, security, and scalability.
+
 **Business Analytics** is a fully managed platform for data modeling, data analysis, and reporting. It provides capabilities for integrating large amounts of data from various sources, conducting data analysis using various methods and tools, such as machine learning, statistical analysis, data visualization and others.
+
 **Azure Redis Cache** is a managed caching service, based on the open source Redis code, which improves application performance by caching data in RAM.
+
 **Content Delivery Network** is a service designed to efficiently deliver content that provides fast and reliable access to website or application content, improving performance and reducing latency for end users around the world. A CDN stores cached content on edge servers at point of presence locations close to end users to minimize latency.
+
 **Cloud Services** is a cloud computing platform that provides the ability to deploy, scale and manage applications on cloud infrastructure, offering capabilities for managing virtual machines, containers, server applications and many other cloud resources.
+
 **Data Box** is a series of devices and solutions designed to simplify and speed up the process of transferring large amounts of data between on-premises infrastructure and Azure cloud services. Azure Data Box secure storage ensures secure data transfer.
+
 **Key Vault** is a service that provides secure storage of tokens, passwords, certificates, API keys and other sensitive information with strict access control. This service allows you to easily create and control the encryption keys used to encrypt your data.
+
 **Scheduler** is a cloud-based task scheduling service that allows you to run various scheduled tasks. This service provides the ability to automate tasks and processes in the Azure cloud, allowing you to streamline workflows and simplify application management. Fully retired on January 31, 2022 and replaced by Azure Logic Apps.
+
 **Sentinel** is a cloud-based security platform that provides security monitoring, threat detection, and incident response capabilities using AI and ML.
 
 ## Analogs
