@@ -1,4 +1,4 @@
-## Аналитическая работа 2
+## Analytical work 2
 
 ### Team members
 Kirollos Mamdouh Eskander Rezkallah, Mustafa Abdalla Mohamed AhmedAbdalla
