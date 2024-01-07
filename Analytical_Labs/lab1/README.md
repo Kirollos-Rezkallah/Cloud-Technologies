@@ -1,7 +1,7 @@
 ## Analytical work 1
 
 ### Team members
-Kirollos Mamdouh Eskander Rezkallah, Abdalla Mustafa Abdalla Mohamed Ahmed
+Kirollos Mamdouh Eskander Rezkallah, Mustafa Abdalla Mohamed Ahmed Abdalla
 
 ### Purpose of work
 
