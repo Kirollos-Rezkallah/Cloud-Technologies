@@ -29,7 +29,7 @@ A snapshot of billing data from the provider after a little processing in the fo
 **AWSCodePipeline** is a fully managed continuous delivery service that helps automate release pipelines to quickly and reliably update applications and infrastructure.
 
 **CodeBuild**  is a fully managed continuous integration service that compiles source code, performs testing, and produces ready-to-deploy software packages. It can integrate with other code versioning services and tools to create flexible and scalable continuous delivery workflows, and supports multiple programming languages, runtimes, and build tools, providing powerful application build automation capabilities.
-как часть Ci/Cd
+as a part of Ci/Cd
 
 **Amazon ML** is a managed machine learning service that helps you build powerful models. Amazon ML gives you the power of machine learning without requiring any experience with machine learning algorithms or techniques.
 
